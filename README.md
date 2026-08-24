@@ -2,6 +2,8 @@
 
 This plan teaches Helm entirely on a local machine. It does not require AWS, Amazon EKS, AWS Blocks, Java, or any cloud resources.
 
+ref: https://zenn.dev/tttol/scraps/59a91d342cb04e
+
 ## Learning goal
 
 By the end, you should be able to:
